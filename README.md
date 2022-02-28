@@ -120,4 +120,4 @@ gpr_stml_example(observation_points=30, noise_var=0.05, test_points=200)
 ![Output plot from GPR-STML example](/docs/images/gpr_stml_example.png)
 
 # Publications / References
-[1]  J. Roy, “ Autonomous Ground Vehicle Guidance and Mapping in Challenging Terrains by using On-Board Vibration Measurements,” Master’s thesis, Department of Electrical and Computer Engineering, Queen’s University, Kingston, Ontario, Canada, July 2021. [Online]. Available: https://qspace.library.queensu.ca/handle/1974/28980
+[1]  J. Roy, “Autonomous Ground Vehicle Guidance and Mapping in Challenging Terrains by using On-Board Vibration Measurements,” Master’s thesis, Department of Electrical and Computer Engineering, Queen’s University, Kingston, Ontario, Canada, July 2021. [Online]. Available: https://qspace.library.queensu.ca/handle/1974/28980
